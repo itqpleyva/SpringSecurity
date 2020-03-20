@@ -1,0 +1,2 @@
+INSERT INTO User values('1','true','$2y$12$cGAV5kgETaLLCGGmNR.L..lctAEY9K9CS7JPt4ed2jG9jWjxdvtmW','ROLE_ADMIN','admin');
+INSERT INTO User values('2','true','$2y$12$cGAV5kgETaLLCGGmNR.L..lctAEY9K9CS7JPt4ed2jG9jWjxdvtmW','ROLE_USER','user');
